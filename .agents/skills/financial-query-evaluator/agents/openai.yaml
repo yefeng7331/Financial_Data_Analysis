@@ -1,0 +1,4 @@
+interface:
+  display_name: "Financial Query Evaluator"
+  short_description: "Evaluate financial questions, SQL, and answers"
+  default_prompt: "Use $financial-query-evaluator to build or run a traceable regression suite for this financial question-answering change."

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "data-visualization": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/data-visualization/SKILL.md",
+      "computedHash": "570df3b3d62afb3b3baa8c7307896e185e0ba82dc7753faee53297d8044d6009"
+    },
+    "sql-queries": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/sql-queries/SKILL.md",
+      "computedHash": "14c498b66c785764e92989d4570d3b4cd38415b93d445ae76daae3cbed3eb8c4"
+    },
+    "validate-data": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "data/skills/validate-data/SKILL.md",
+      "computedHash": "27a21fa0e36faa6c2c7820d7c82bc3a0460aaaae8f6ee5b05833fa9fe6f7dad1"
+    }
+  }
+}

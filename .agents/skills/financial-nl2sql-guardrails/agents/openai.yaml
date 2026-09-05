@@ -1,0 +1,4 @@
+interface:
+  display_name: "Financial NL2SQL Guardrails"
+  short_description: "Secure and audit generated financial SQL"
+  default_prompt: "Use $financial-nl2sql-guardrails to design or review this natural-language-to-SQL flow safely."

@@ -1,0 +1,52 @@
+# Local tool caches and runtimes
+.tmp-*/
+.cache/
+node_modules/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.crt
+*.secrets.*
+
+# Local databases, sensitive exports, and logs
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.bak
+*.log
+data/raw/
+data/private/
+exports/
+
+# Build and coverage output
+dist/
+build/
+coverage/
+htmlcov/
+.coverage
+playwright-report/
+test-results/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Materials outside this financial project
+/需求分析/1.资料/教育/
+/需求分析/1.资料/旅游/
+/需求分析/1.资料/听书/

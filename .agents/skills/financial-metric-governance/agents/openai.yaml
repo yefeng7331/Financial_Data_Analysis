@@ -1,0 +1,4 @@
+interface:
+  display_name: "Financial Metric Governance"
+  short_description: "Govern banking metrics and semantic definitions"
+  default_prompt: "Use $financial-metric-governance to define or review the metric contract for this financial question-answering task."
